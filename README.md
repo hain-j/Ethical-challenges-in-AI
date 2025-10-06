@@ -8,6 +8,12 @@
 ## Project Overview
 We are exploring the ethical challenges in AI and how it affects many people.
 
+## Contents
+- Slides
+- Script
+- Video Link
+- Research Notes
+
 ## Final Video
 YouTube Link:
 
