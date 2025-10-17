@@ -1,3 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Research Notes - AI
+## Sources
+[Future Outlook of AI] (https://brainhub.eu/library/software-developer-age-of-ai)
+
+## Key Points
+
 # AI Tools and Ethical Challenges in Software Development
 ## Question 1: Which AI tools are widely used in software today?**
 Artificial Intelligence (AI) has become an important part of software development.  
@@ -107,29 +133,6 @@ The future of programming depends on how responsibly we use AI combining **human
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Research Notes - AI
-## Sources
-[Future Outlook of AI] (https://brainhub.eu/library/software-developer-age-of-ai)
-
-## Key Points
-
 # Future Outlook
 - Experts predict that by 2040, AI could potentially replace human developers in writing code, as AI systems become more advanced in machine learning, natural language processing, and code generation
 - However, this shift is expected to be gradual, with human oversight remaining crucial in the foreseeable future.
@@ -154,6 +157,7 @@ The future of programming depends on how responsibly we use AI combining **human
 
 
 # Class Question
+
 
 
 
