@@ -4,7 +4,7 @@
 
 ## Key Points
 
-## Future Outlook
+# Future Outlook
 - Experts predict that by 2040, AI could potentially replace human developers in writing code, as AI systems become more advanced in machine learning, natural language processing, and code generation
 - However, this shift is expected to be gradual, with human oversight remaining crucial in the foreseeable future.
 ### Adapting to Change:
@@ -19,6 +19,7 @@
 
 
 ### Class Question
+
 
 
 
