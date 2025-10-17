@@ -22,6 +22,10 @@
 ## Sources
 - [Future Outlook of AI](https://brainhub.eu/library/software-developer-age-of-ai)
 - [Possible Solution](https://barrazacarlos.com/how-to-avoid-artificial-intelligence-understanding-the-risks-and-building-a-safer-future/)
+-  [VentureBeat – OpenAI warns Copilot may have bias](https://venturebeat.com/ai/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias)  
+- [OpenAI – Evaluating Fairness in ChatGPT](https://openai.com/index/evaluating-fairness-in-chatgpt/)  
+- [GitHub Blog – Copilot Updates](https://github.blog/)  
+
 ## Key Points
 
 # AI Tools and Ethical Challenges in Software Development
@@ -54,16 +58,6 @@ It is also becoming common in professional workplaces for **code review** and **
 Unlike Copilot, which uses public data, Tabnine can train on your **private company code**.  
 This makes it more secure and privacy friendly.  
 It predicts your next lines of code based on your past work and personal style, helping developers stay consistent and efficient.
-
----
-
-
-
-**Sources:**  
-- [VentureBeat – OpenAI warns Copilot may have bias](https://venturebeat.com/ai/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias)  
-- [Medium – Risks and Ethical Challenges in AI-Generated Code](https://medium.com/@mdmeeng01/risks-biases-and-ethical-challenges-in-ai-generated-code-d6e3c56127a5)  
-- [OpenAI – Evaluating Fairness in ChatGPT](https://openai.com/index/evaluating-fairness-in-chatgpt/)  
-- [GitHub Blog – Copilot Updates](https://github.blog/)  
 
 ---
 
@@ -157,6 +151,7 @@ The future of programming depends on how responsibly we use AI combining **human
 
 
 # Class Question
+
 
 
 
