@@ -143,8 +143,18 @@ The future of programming depends on how responsibly we use AI combining **human
 - ### Evolving Developers Roles:
 - While AI handles more routine coding tasks, developers are shifting towards roles that require higher-level thinking such as system archtecture, problem solving and ethical consideration in AI development
 
+## Possible Solution
+  1. Implement international regulation for ai developent.
+  2. Demand transparency in the development of AI systems
+  3. Promote public education around the use if AI and its risks
+  4. Require third-party testing to test AI models and mitigate these risk
+  5. AI must have limited data especially at school
+  6. AI must be designed for each use such as AI for school, AI for work.
+
+
 
 # Class Question
+
 
 
 
