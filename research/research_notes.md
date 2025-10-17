@@ -1,3 +1,10 @@
+## Research Notes - AI
+## Sources
+[Future Outlook of AI] (https://brainhub.eu/library/software-developer-age-of-ai)
+[GitHub Copilot license debate] (https://github.com/orgs/community/discussions/148571)
+[AI in hiring tools] (https://www.mindtheproduct.com/avoiding-bias-and-building-better-hiring-tools-with-ai/)
+## Key Points
+
 # AI Tools and Ethical Challenges in Software Development
 ## Question 1: Which AI tools are widely used in software today?**
 Artificial Intelligence (AI) has become an important part of software development.  
@@ -106,29 +113,41 @@ The future of programming depends on how responsibly we use AI combining **human
 > “Do you think AI will ever replace human programmers, or will we always need humans to guide and control it?”
 
 
+# Real World Examples
+## GitHub Copilot license debate: is AI copying code from open-source repos without attribution? 
+Co-Pilot seems to openly admit itself that open-source code is repurposed without adhering to attribution requirements:
+GitHub Copilot is designed to provide code suggestions based on patterns found in publicly available code, including open-source projects. While it aims to generate useful and relevant code snippets, it may occasionally produce outputs that are like existing code. If you use Copilot-generated code, it is your responsibility to ensure that proper attribution is given and that you comply with any applicable licenses
 
+## AI in hiring tools: biased resumes or candidate scoring 
+AI is increasingly used in recruitment to automatically screen resumes, rank candidates, or even conduct initial interviews. While these tools aim to make hiring faster and more efficient, they can inherit and amplify biases present in historical hiring data. For example, Amazon scrapped an AI recruiting tool in 2018 because it penalized resumes containing female-associated terms, reflecting a male-dominated hiring history. Biases in AI hiring systems can also disadvantage candidates based on race, age, or educational background. Companies using these tools must ensure fairness by auditing AI outputs, using diverse training data, and including human oversight in final hiring decisions.
 
+## Self-driving car accidents caused by AI decision errors 
+Errors in object detection, sensor interpretation, or decision-making algorithms have led to accidents and fatalities. For instance, in 2018, an Uber self-driving car struck and killed a pedestrian in Arizona due to the system failing to correctly identify the person. These incidents highlight the ethical challenges of trusting AI with life-and-death decisions and the need for rigorous testing, transparency, and safety protocols. 
 
+## ChatGPT generating malicious code or unsafe programming suggestions 
+AI language models can generate programming code, but sometimes the outputs may include unsafe, insecure, or malicious code patterns. Although ChatGPT has built-in content filtering to limit malicious uses, research has shown that attackers can circumvent the restrictions by avoiding prompts or rephrasing requirements to generate malicious code that can be used to steal information. Developers using AI-generated code must verify and test the suggestions carefully. This raises ethical concerns around AI’s potential to unintentionally facilitate hacking, malware creation, or unsafe software deployment, emphasizing the importance of responsible use, proper oversight, and clear guidelines for AI-assisted coding.
 
+# Legal & Policy Aspects 
+## Current laws regarding AI and software development (varies by country)
+Laws for AI and software development differ by country. Some countries have strict rules, others are still creating them. For example 
+**Canada – Current AI Laws**
+Voluntary Code of Conduct: Encourages organizations to develop AI safely, securely, and responsibly while the formal law is being finalized. It’s mainly guidance rather than mandatory rules.
+Artificial Intelligence and Data Act (AIDA) – proposed: Will regulate high-impact AI systems, which are AI applications that could significantly affect people’s rights, safety, or opportunities (like hiring tools or health AI). These systems will need to follow mandatory rules on safety, accountability, and risk management.
+Low-impact AI systems: AI that has little effect on people or society, like spam filters will likely have fewer requirements
+Proposed regulations: EU AI Act, US AI guidelines 
+**EU AI Act Risk Levels**
+Unacceptable risk: AI systems that could harm people or society, like social scoring by governments or AI that manipulates human behavior in dangerous ways. These are banned.
+High-risk: AI that affects important areas of life, like hiring tools, healthcare, or self-driving cars. These must follow strict rules for data quality, fairness, transparency, and accountability, and are checked before use.
+Limited risk: AI that has some impact but is not critical, like chatbots or recommendation systems. Companies must provide clear information to users about how the AI works.
+Minimal or no risk: AI with little potential for harm, like spam filters or AI for games. Few or no legal requirements apply.
 
+## Ethics guidelines from organizations: IEEE, ACM, OpenAI 
+Organizations like IEEE, ACM, and OpenAI issue ethical guidelines to ensure AI is used responsibly. Key principles include:
+- Fairness: Avoid discrimination and bias
+- Accountability: Humans must be responsible for AI decisions
+- Transparency: AI decisions should be explainable and understandable
+- Safety: Minimize harm to people and society
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Research Notes - AI
-## Sources
-[Future Outlook of AI] (https://brainhub.eu/library/software-developer-age-of-ai)
-
-## Key Points
 
 # Future Outlook
 - Experts predict that by 2040, AI could potentially replace human developers in writing code, as AI systems become more advanced in machine learning, natural language processing, and code generation
@@ -145,6 +164,7 @@ The future of programming depends on how responsibly we use AI combining **human
 
 
 # Class Question
+
 
 
 
