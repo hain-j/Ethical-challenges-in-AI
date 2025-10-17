@@ -18,7 +18,8 @@
 - While AI handles more routine coding tasks, developers are shifting towards roles that require higher-level thinking such as system archtecture, problem solving and ethical consideration in AI development
 
 
-### Class Question
+# Class Question
+
 
 
 
