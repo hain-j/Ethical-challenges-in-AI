@@ -21,8 +21,8 @@
 ## Research Notes - AI
 ## Sources
 - [Future Outlook of AI](https://brainhub.eu/library/software-developer-age-of-ai)
-- [GitHub Copilot License] (https://github.com/orgs/community/discussions/148571)
-- [AI in Hiring Tools] (https://www.mindtheproduct.com/avoiding-bias-and-building-better-hiring-tools-with-ai/)
+- [GitHub Copilot License](https://github.com/orgs/community/discussions/148571)
+- [AI in Hiring Tools](https://www.mindtheproduct.com/avoiding-bias-and-building-better-hiring-tools-with-ai/)
 - [Possible Solution](https://barrazacarlos.com/how-to-avoid-artificial-intelligence-understanding-the-risks-and-building-a-safer-future/)
 -  [VentureBeat – OpenAI warns Copilot may have bias](https://venturebeat.com/ai/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias)  
 - [OpenAI – Evaluating Fairness in ChatGPT](https://openai.com/index/evaluating-fairness-in-chatgpt/)  
@@ -70,7 +70,7 @@ They bring many **positive impacts**, but also some **negative effects** that mu
 
 ---
 
-###Positive Impacts
+### Positive Impacts
 
 1. **Speed and Productivity**  
    AI tools can write repetitive code automatically, helping developers finish projects faster.  
@@ -111,14 +111,14 @@ They bring many **positive impacts**, but also some **negative effects** that mu
 
 ---
 
-###Summary: Balance Between AI and Human Thinking
+### Summary: Balance Between AI and Human Thinking
 AI tools are powerful helpers, but they cannot replace human creativity, logic, and responsibility.  
 Developers should use AI to support their work  not to think for them.  
 A smart balance between automation and human control leads to better, safer software.
 
 ---
 
-##Conclusion
+## Conclusion
 Artificial Intelligence is transforming software development in exciting ways.  
 It makes work faster, improves learning, and increases productivity.  
 However, it also brings new ethical and professional challenges, such as fairness, job loss, and data privacy.  
@@ -186,6 +186,7 @@ Organizations like IEEE, ACM, and OpenAI issue ethical guidelines to ensure AI i
 
 
 # Class Question
+
 
 
 
