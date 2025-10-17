@@ -122,9 +122,6 @@ It makes work faster, improves learning, and increases productivity.
 However, it also brings new ethical and professional challenges, such as fairness, job loss, and data privacy.  
 The future of programming depends on how responsibly we use AI combining **human creativity** with **AI efficiency**.
 
-**Final Question for Presentation:**  
-> “Do you think AI will ever replace human programmers, or will we always need humans to guide and control it?”
-
 
 
 # Future Outlook
@@ -151,8 +148,8 @@ The future of programming depends on how responsibly we use AI combining **human
 
 
 # Class Question
-
-
+**Final Question for Presentation:**  
+> “Do you think AI will ever replace human programmers, or will we always need humans to guide and control it?”
 
 
 
