@@ -1,6 +1,6 @@
 ## Research Notes - AI
 ## Sources
-[ Future Outlook of AI ] (https://brainhub.eu/library/software-developer-age-of-ai)
+[Future Outlook of AI] ( https://brainhub.eu/library/software-developer-age-of-ai )
 
 ## Key Points
 
@@ -19,5 +19,6 @@
 
 
 ### Class Question
+
 
 
