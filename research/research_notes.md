@@ -20,8 +20,8 @@
 
 ## Research Notes - AI
 ## Sources
-[Future Outlook of AI](https://brainhub.eu/library/software-developer-age-of-ai)
-[Possible Solution](https://barrazacarlos.com/how-to-avoid-artificial-intelligence-understanding-the-risks-and-building-a-safer-future/)
+- [Future Outlook of AI](https://brainhub.eu/library/software-developer-age-of-ai)
+- [Possible Solution](https://barrazacarlos.com/how-to-avoid-artificial-intelligence-understanding-the-risks-and-building-a-safer-future/)
 ## Key Points
 
 # AI Tools and Ethical Challenges in Software Development
@@ -157,6 +157,7 @@ The future of programming depends on how responsibly we use AI combining **human
 
 
 # Class Question
+
 
 
 
