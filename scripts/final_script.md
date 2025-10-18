@@ -1,3 +1,0 @@
-Johaina
-Hastie
-Soniya
